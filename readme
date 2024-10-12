@@ -1,0 +1,5 @@
+1. To run a javascript file in the terminal use command: "node file_name.js" and hit enter
+2.In order to take the input from the user on the screen we have to install :"npm instal prompt-sync" and then hit enter.
+3.npm stands for: node package manager.
+  1.It installs different  dependencies on your computer which can can then be used within your javascript files.
+4. prompt : gives access to whatever the user types.
