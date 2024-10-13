@@ -3,3 +3,5 @@
 3.npm stands for: node package manager.
   1.It installs different  dependencies on your computer which can can then be used within your javascript files.
 4. prompt : gives access to whatever the user types.
+5.We can select a word and press ctrl H to hightlight to find and replace.
+6.Use ctrl and tilde to toggle the terminal in vscode.
